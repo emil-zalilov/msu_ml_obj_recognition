@@ -1,2 +1,4 @@
 # msu_ml_obj_recognition
-first python project as a part of msu special course
+My first python project
+
+usage: python obj_recognition.py
